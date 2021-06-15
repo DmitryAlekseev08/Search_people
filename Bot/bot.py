@@ -9,8 +9,8 @@ from Request.request import vk_request
 from Validate.validator import validator, replacing_sex, replacing_status
 
 # Telegram
-TB_TOKEN = '1093668547:AAFbQ8sUgVhqqkdqiR9RAfGC7zX8JKjWFMQ'
-CHAT_ID = '797103302'
+TB_TOKEN = '1111111111111111111111111111111111111111111111'
+CHAT_ID = '111111111'
 
 # Константы состояний
 Q, CITY, SEX, AGE_FROM, AGE_TO, STATUS, COUNT = range(7)
